@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "eval_Type",
+      "setup": "",
+      "run": "python3 eval_Type.py",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "eval_Scope",
+      "setup": "",
+      "run": "python3 eval_Scope.py",
+      "input": "",
+      "output": "OK",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "eval_Array",
+      "setup": "",
+      "run": "python3 eval_Array.py",
+      "input": "",
+      "output": "OK",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 4
+    }
+  ]
+}
